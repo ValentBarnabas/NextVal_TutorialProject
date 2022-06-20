@@ -1,0 +1,6 @@
+.idea/
+.gradle/
+build/
+imdb-app/build/
+rating-app/rating-app-api/build/
+rating-app/rating-app-core/build
